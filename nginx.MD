@@ -33,6 +33,7 @@ We have 2 type of proxies.
 * Privacy and Anonymous: Forward proxy is used to hide the client IP address.
 * Content Filtering and Access Control: We can restrict traffic out of the network through proxy.
 * Caching: Frequently requested content can be cached here.
+* VPN is the best example for foraward proxy
 
 #### Reverse Proxy:
 * Server-Centric: Clients are unaware of the existence of reverse proxy, for clients it the website they are connecting.
